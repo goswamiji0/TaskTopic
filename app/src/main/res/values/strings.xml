@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Topic Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="see_output">See Output</string>
+    <string name="get_topic">Get Topics</string>
+    <string name="new_data_available">New Data Available!!</string>
+</resources>
